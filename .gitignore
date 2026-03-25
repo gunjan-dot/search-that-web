@@ -1,0 +1,7 @@
+.env
+.venv/
+<<<<<<< HEAD
+__pycache__/.env
+=======
+__pycache__/
+>>>>>>> 6bd9b18 (web research agent - clean)
